@@ -1,0 +1,8 @@
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\LocationNumeralConverter\TestConversions\obj\Debug\TestConversions.csprojResolveAssemblyReference.cache
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\LocationNumeralConverter\TestConversions\bin\Debug\TestConversions.dll
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\LocationNumeralConverter\TestConversions\bin\Debug\TestConversions.pdb
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\LocationNumeralConverter\TestConversions\bin\Debug\LocationNumeralConverter.dll
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\LocationNumeralConverter\TestConversions\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\LocationNumeralConverter\TestConversions\bin\Debug\LocationNumeralConverter.pdb
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\LocationNumeralConverter\TestConversions\obj\Debug\TestConversions.dll
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\LocationNumeralConverter\TestConversions\obj\Debug\TestConversions.pdb

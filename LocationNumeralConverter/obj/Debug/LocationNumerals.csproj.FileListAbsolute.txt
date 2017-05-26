@@ -1,0 +1,5 @@
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\LocationNumeralConverter\LocationNumeralConverter\bin\Debug\LocationNumeralConverter.dll
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\LocationNumeralConverter\LocationNumeralConverter\bin\Debug\LocationNumeralConverter.pdb
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\LocationNumeralConverter\LocationNumeralConverter\obj\Debug\LocationNumeralConverter.dll
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\LocationNumeralConverter\LocationNumeralConverter\obj\Debug\LocationNumeralConverter.pdb
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\LocationNumeralConverter\LocationNumeralConverter\obj\Debug\LocationNumerals.csprojResolveAssemblyReference.cache

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationNumerals", "LocationNumeralConverter\LocationNumerals.csproj", "{C6CD7FDC-BD28-4AD9-93E9-6D45E110AF82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConversions", "TestConversions\TestConversions.csproj", "{8EE59F48-7498-4114-805D-E34131EBFD61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6CD7FDC-BD28-4AD9-93E9-6D45E110AF82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6CD7FDC-BD28-4AD9-93E9-6D45E110AF82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6CD7FDC-BD28-4AD9-93E9-6D45E110AF82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6CD7FDC-BD28-4AD9-93E9-6D45E110AF82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EE59F48-7498-4114-805D-E34131EBFD61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE59F48-7498-4114-805D-E34131EBFD61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE59F48-7498-4114-805D-E34131EBFD61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE59F48-7498-4114-805D-E34131EBFD61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
